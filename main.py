@@ -42,8 +42,8 @@ import ffmpeg
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
+    api_id=22104246,
+    api_hash=69741a25a69446c0ad25ab1e76918150,
     bot_token=BOT_TOKEN
 )
 
